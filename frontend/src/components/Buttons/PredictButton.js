@@ -39,7 +39,7 @@ function PredictButton() {
 
         const payload = {
             data: [...selectedInvoicesData],
-            id: 1802315
+            id: XXXXXXXXXX
         }
 
         predictAPI(payload)
